@@ -69,3 +69,5 @@ See the LICENSE file for details. (N/A)
 **Disclaimer**
 
 The code and information provided in this repository are for educational purposes only and should not be considered financial advice.
+
+*This README was made with the help of [Gemini](https://gemini.google.com/)*
